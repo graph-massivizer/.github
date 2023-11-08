@@ -1,7 +1,31 @@
 # Graph-Massivizer
 
 
-### Tool Testing
+### Tool Documentation
+
+#### Description
+[Graph-Inceptor](https://github.com/graph-massivizer/graph-inceptor#tool-description)
+
+[Graph-Scrutinizer](https://github.com/graph-massivizer/graph-scrutinizer#tool-description)
+
+[Graph-Optimizer](https://github.com/graph-massivizer/graph-optimizer#tool-description)
+
+[Graph-Greenifier](https://github.com/graph-massivizer/graph-greenifier#tool-description)
+
+[Graph-Choreographer](https://github.com/graph-massivizer/graph-choreographer#tool-description)
+
+#### Integration
+[Graph-Inceptor](https://github.com/graph-massivizer/graph-inceptor#tool-integration)
+
+[Graph-Scrutinizer](https://github.com/graph-massivizer/graph-scrutinizer#tool-integration)
+
+[Graph-Optimizer](https://github.com/graph-massivizer/graph-optimizer#tool-integration)
+
+[Graph-Greenifier](https://github.com/graph-massivizer/graph-greenifier#tool-integration)
+
+[Graph-Choreographer](https://github.com/graph-massivizer/graph-choreographer#tool-integration)
+
+#### Testing
 [Graph-Inceptor](https://github.com/graph-massivizer/graph-inceptor#tool-tests)
 
 [Graph-Scrutinizer](https://github.com/graph-massivizer/graph-scrutinizer#tool-tests)
