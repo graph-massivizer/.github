@@ -8,23 +8,41 @@ The repositories in this GitHub organization are currently private while develop
 
 ### Graph-Inceptor
 
+#### GraphMa
+GraphMa, a component of the Graph-Inceptor tool, integrates principles of pipeline computation using modular, composable functions to provide structured graph data analysis and processing using computational abstractions such as computation as type, higher-order traversal abstraction, and directed data-transfer protocol.
+
+#### ETL Pipeline
+The Graph-Inceptor ETL Pipeline creates KGs and stores them in batches from large data sources using semantic mappings deployed on a scalable IT cloud infrastructure consisting of servers and storage systems.
+
 ### Graph-Scrutinizer
+Graph-Scrutinizer provides various BGO analytics, such as sampling, summarisation, traversal, or ML (e.g., GNN) algorithms, translated into optimised implementations for heterogeneous hardware (HPC, edge, cloud).
 
 ### Graph-Optimizer
+Graph-Optimizer combines analytical models, micro-benchmarking, graph sampling, simulation, and automated validation, to predict the performance and energy footprint of a given graph processing workload.
 
 ### Graph-Greenifier
+Graph-Greenifier is a simulation tool for data centre operators and application developers to create scenarios that quantify the carbon impact of workloads on different locations and hardware, making informed decisions.
 
 ### Graph-Choreographer
+Graph-Choreographer is a serverless orchestration tool for executing single, ensemble and batch graph applications on the computing continuum, scheduled using performance and energy tradeoffs.
+
+## metaphactory
+The Graph-Massivizer toolkit extends the integrated metaphactory platform to operate with extreme amounts of streaming data with improved on-demand graph creation, intelligent graph analytics, optimised hardware configuration, workload prediction, and sustainable green orchestration of large BGO workflows at scale.
 
 ## Use Cases
 
 ### Green and Sustainable Finance
+Synthetic financial data generation of extreme volumes of stocks and future commodities, adaptable to additional financial securities such as options, bonds, exchange-traded funds, mutual funds, and currencies
 
 ### Global Foresight for Environment Protection
+Analysis of company-related events from past data, patterns identification in a common sequence, and prediction of the most likely following events by matching them
 
 ### Green AI for Sustainable Automotive Industry
+Integration of traditional expert knowledge with sensor data for quality monitoring in manufacturing, combining KGs with time-series sensor data models to enhance explainability, accuracy, and flexibility in quality predictions, and provisioning of expert insights and real-time measurements for superior quality control
 
 ### Data Centre Digital Twin for Sustainable Exascale Computing
+Continuous prediction of compute node failures in a high-performance computing system based on an anomaly prediction model that leverages the nodes’ physical layout integrated into the monitoring system with a continuous graph neural network deployment pipeline
+
 <!--
 
 **Here are some ideas to get you started:**
