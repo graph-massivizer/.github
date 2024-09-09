@@ -26,9 +26,6 @@ Graph-Greenifier is a simulation tool for data centre operators and application 
 ### Graph-Choreographer
 Graph-Choreographer is a serverless orchestration tool for executing single, ensemble and batch graph applications on the computing continuum, scheduled using performance and energy tradeoffs.
 
-## metaphactory
-The Graph-Massivizer toolkit extends the integrated metaphactory platform to operate with extreme amounts of streaming data with improved on-demand graph creation, intelligent graph analytics, optimised hardware configuration, workload prediction, and sustainable green orchestration of large BGO workflows at scale.
-
 ## Use Cases
 
 ### Green and Sustainable Finance
