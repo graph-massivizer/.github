@@ -4,14 +4,19 @@ Graph-Massivizer researches and develops a high-performance, scalable, and susta
 
 The repositories in this GitHub organization are currently private while development is ongoing. As the toolkit integration proceeds tools will appear publicly in this page.
 
+## Graph-Massivizer Toolkit
+
+
+
 ## Tools
 
-### Graph-Inceptor
+### [Graph-Inceptor](https://github.com/graph-massivizer/graph-inceptor)
+The Graph-Inceptor tool is comprised of two distinct tools serving different use cases for ingesting and processing massive graphs.
 
-#### GraphMa
+#### [GraphMa](https://github.com/graph-massivizer/graph-inceptor-graphma)
 GraphMa, a component of the Graph-Inceptor tool, integrates principles of pipeline computation using modular, composable functions to provide structured graph data analysis and processing using computational abstractions such as computation as type, higher-order traversal abstraction, and directed data-transfer protocol.
 
-#### ETL Pipeline
+#### [ETL Pipeline](https://github.com/graph-massivizer/graph-inceptor-etl-pipeline)
 The Graph-Inceptor ETL Pipeline creates KGs and stores them in batches from large data sources using semantic mappings deployed on a scalable IT cloud infrastructure consisting of servers and storage systems.
 
 ### Graph-Scrutinizer
