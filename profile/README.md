@@ -5,7 +5,7 @@ Graph-Massivizer researches and develops a high-performance, scalable, and susta
 ## [Graph-Massivizer Toolkit](https://github.com/graph-massivizer/graph-massivizer-toolkit)
 The Graph-Massivizer Toolkit is an integrated platform that leverages the unique researched functionalities in each separate Graph-Massivizer tool. In the integrated toolkit, algorithms that perform basic graph operations (BGO) developed by Graph-Inceptor and Graph-Scrutinizer as well as other open source libraries are integrated so that they can be executed efficiently and in a green-aware fashion within diverse hardware environments according to the advanced techniques developed by Graph-Optimizer, Graph-Greenifier, and Graph-Choreographer.
 
-## Tools
+## Graph-Massivizer Tools
 
 ### [Graph-Inceptor](https://github.com/graph-massivizer/graph-inceptor)
 The Graph-Inceptor tool is comprised of two distinct tools serving different use cases for ingesting and processing massive graphs.
